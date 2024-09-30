@@ -1,7 +1,7 @@
 # CocktailApp
 
 ## Beschreibung
-Diese App listet Cocktailrezepte
+Diese App listet Cocktailrezepte und ermöglicht nach Cocktails zu suchen.
 Sie ist als MVC implementiert.
 
 ## Technologie

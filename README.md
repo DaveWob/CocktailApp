@@ -7,6 +7,7 @@ Sie ist als MVC implementiert.
 ## Technologie
 - C#
 - MariaDB
+- bash
 
 ## Datenbank
 

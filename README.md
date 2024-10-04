@@ -8,6 +8,7 @@ Sie ist als MVC implementiert.
 - C#
 - MariaDB
 - bash
+- Powershell
 
 ## Datenbank
 
